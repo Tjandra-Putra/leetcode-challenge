@@ -3,7 +3,7 @@ package arrays_and_hashing;
 import java.util.HashMap;
 import java.util.HashSet;
 
-public class containsDuplicate {
+public class ContainsDuplicate {
     public static void main(String[] args) {
         int[] numbers = {1, 2, 3, 4, 5, 5};
         System.out.println(containsDuplicate2(numbers));
