@@ -1,0 +1,53 @@
+# IntelliJ IDEA
+.idea/
+
+# Project specific files
+*.iml
+*.iws
+
+# User-specific files
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/vcs.xml
+
+# Sensitive or high-churn files
+.idea/dataSources/
+.idea/dataSources.ids
+.idea/dataSources.local.xml
+.idea/sqlDataSources.xml
+.idea/dynamic.xml
+.idea/uiDesigner.xml
+
+# Gradle
+.idea/gradle.xml
+.idea/libraries
+
+# CMake
+.idea/cmake-build-debug/
+.idea/cmake-build-release/
+.idea/cmake-build-*/*/
+.idea/CMakeLists.txt
+
+# External Tools
+.idea/extLibs
+.idea/dictionaries
+
+# Kotlin
+.idea/kotlin/
+.idea/misc.xml
+.idea/modules
+
+# Android Studio
+.idea/caches
+.idea/local
+
+# AppCode
+.idea/xcuserdata
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+# Crashlytics plugin (for Android Studio and IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
